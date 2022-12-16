@@ -27,9 +27,15 @@ https://docs.oracle.com/javase/7/docs/api/javax/swing/JButton.html
 (learned how to create buttons and code what happens when a button is clicked)
 https://docs.oracle.com/javase/tutorial/uiswing/components/textfield.html
 (learned how to create textfields and make them editable for user input)
-
+https://docs.oracle.com/javase/tutorial/uiswing/components/label.html
+(learned how to implement labels to output necessary results onto window/frame)
+Gained a lot of inspiration from the example codes provided in the resources above
+to develop unique, interactive windows/interfaces pertaining to our dataset
 
 [write the dates and help received here]
+12/15/2022
+Tinotenda Chinamora OH - asked about potential way to implement hover but couldn't
+provide much info as preceptor has not worked with GUI to give definitive advice
 
 
 /******************************************************************************

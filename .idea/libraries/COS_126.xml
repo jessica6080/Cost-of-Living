@@ -11,6 +11,8 @@
     <SOURCES>
       <root url="jar://$PROJECT_DIR$/.lift/stdlib.jar!/" />
       <root url="jar://$PROJECT_DIR$/.lift/introcs.jar!/" />
+      <root url="file://$PROJECT_DIR$/../jfreechart-1.5.3/src/main/java" />
+      <root url="file://$PROJECT_DIR$/../jfreechart-1.5.3/src/test/java" />
     </SOURCES>
   </library>
 </component>
